@@ -1,0 +1,400 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.as {
+    display: flex;
+    width: 1652px;
+    height: 78px;
+}
+
+.log {
+    margin-top: 10px;
+}
+
+.log img {
+    width: 172px;
+    height: 49.05px;
+
+
+}
+
+.tam input {
+    font-size: 20px;
+}
+
+.ab {
+    width: 358px;
+    height: 48px;
+    border-radius: 14px;
+}
+
+.tam {
+    padding-left: 40px;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+
+.nay {
+    margin-top: 10px;
+    margin-left: 16px;
+}
+
+.nay button {
+    width: 85px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 14px;
+    font-size: 20px;
+}
+
+.joy select {
+    width: 280px;
+    height: 48px;
+    border-radius: 14px;
+    margin-top: 10px;
+    margin-left: 22px;
+}
+
+.yer img {
+    width: 30px;
+    height: 30px;
+    margin-left: 700px;
+}
+
+.yer h3 {
+    margin-left: 690px;
+}
+
+
+
+.profile img {
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.profile h3 {
+    margin-left: 26px;
+}
+
+.mat a {
+    margin-left: 250px;
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+
+}
+
+.mat {
+    margin-top: 50px;
+}
+
+.ew {
+    width: 900px;
+    height: 360px;
+    margin-left: 70px;
+    margin-top: 15px;
+    border: 1px solid rgb(223, 215, 215);
+    background-image: url(ich.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+    border-radius: 20px;
+
+}
+
+.ew h1 {
+    margin-top: 200px;
+    margin-left: 20px;
+    color: white;
+    font-size: 50px;
+}
+
+.but {
+    display: flex;
+    width: 425px;
+    height: 45px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.yum {
+    width: 69px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: azure;
+    border: 1px solid white;
+}
+
+.uzi {
+    width: 244px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aqua;
+    border: 1px solid white;
+}
+
+.yum1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: bisque;
+    border: 1px solid white;
+}
+
+.yum2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: blue;
+    border: 1px solid white;
+}
+
+.qewr {
+    width: 380px;
+    height: 40px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 60px;
+}
+
+.bir {
+    width: 170px;
+    height: 38px;
+    border-radius: 10px;
+}
+
+.ikki {
+    width: 169px;
+    height: 38px;
+    border-radius: 10px;
+}
+
+.m1 input {
+    width: 898px;
+    height: 48px;
+    margin-left: 60px;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+
+.but1 {
+    width: 900px;
+    height: 36px;
+    border: 1px solid white;
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.ibut {
+    width: 60px;
+    height: 36px;
+    background-color: yellow;
+    border-radius: 10px;
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.ibut1 {
+    width: 67.45px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+
+}
+
+.ibut2 {
+    width: 83px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+
+}
+
+.ibut3 {
+    width: 81px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+
+}
+
+.ibut4 {
+    width: 141px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+
+}
+.mat1{
+    width: 900px;
+    height: 24px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 60px;
+   
+}
+.zaq{
+    width: 924px;
+    height: 335px;
+    margin-top: 15px;
+    margin-left: 60px;
+    display: flex;
+    gap: 20px;
+}
+.wq{
+    width: 207px;
+    height: 335px;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+.wq img{
+    width: 195px;
+    height: 195px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px; 
+}
+.wq p{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.wq button{
+    width: 187px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.mat2{
+    width: 900px;
+    height: 24px;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 60px;
+   
+}
+.zaq1{
+    width: 924px;
+    height: 335px;
+    margin-top: 20px;
+    margin-left: 60px;
+    display: flex;
+    gap: 20px;
+}
+.wwq{
+    width: 207px;
+    height: 335px;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+.wwq img{
+    width: 195px;
+    height: 195px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px; 
+}
+.wwq p{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.wwq button{
+
+    width: 187px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 10px;
+    border-radius: 10px;
+}.zaq2{
+    width: 924px;
+    height: 335px;
+    margin-top: 20px;
+    margin-left: 60px;
+    display: flex;
+    gap: 20px;
+}
+.ww{
+    width: 207px;
+    height: 335px;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+.ww img{
+    width: 195px;
+    height: 195px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px; 
+}
+.ww p{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.ww button{
+
+    width: 187px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 1px solid darkgrey;
+}
+.tg {
+    width: 1900px;
+    height: 200px;
+}
+
+.tagi {
+    margin-top: 50px;
+    margin-left: 380px;
+    width: 1000px;
+    height: 28px;
+    display: flex;
+    gap: 20px;
+}
+
+.tagi a {
+    text-decoration: none;
+    color: rgb(78, 77, 77);
+}
+
+.tagi2 {
+    margin-top: 50px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 28px;
+    display: flex;
+    gap: 20px;
+}
+
+
+
+.yoni img {
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.yoni {
+    gap: 10px;
+    display: flex;
+    margin-left: 540px;
+
+
+}
+

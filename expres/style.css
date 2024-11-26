@@ -1,0 +1,444 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.as {
+    display: flex;
+    width: 1652px;
+    height: 78px;
+}
+
+.log {
+    margin-top: 10px;
+}
+
+.log img {
+    width: 172px;
+    height: 49.05px;
+
+
+}
+
+.tam input {
+    font-size: 20px;
+}
+
+.ab {
+    width: 358px;
+    height: 48px;
+    border-radius: 14px;
+}
+
+.tam {
+    padding-left: 40px;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+
+.nay {
+    margin-top: 10px;
+    margin-left: 16px;
+}
+
+.nay button {
+    width: 85px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 14px;
+    font-size: 20px;
+}
+
+.joy select {
+    width: 280px;
+    height: 48px;
+    border-radius: 14px;
+    margin-top: 10px;
+    margin-left: 22px;
+}
+
+.yer img {
+    width: 30px;
+    height: 30px;
+    margin-left: 700px;
+}
+
+.yer h3 {
+    margin-left: 690px;
+}
+
+
+
+.profile img {
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.profile h3 {
+    margin-left: 26px;
+}
+
+.taom {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.rasm img {
+    width: 180px;
+    height: 125px;
+    border-radius: 10px;
+}
+
+.matn {
+    margin-top: 50px;
+    margin-left: 365px;
+    display: flex;
+    gap: 900px;
+}
+
+.matn a {
+    text-decoration: none;
+    color: darkgray;
+}
+
+.taom2 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.rasm1 img {
+    width: 217px;
+    height: 123px;
+    border-radius: 10px;
+}
+
+.matn2 {
+    margin-top: 50px;
+    margin-left: 360px;
+}
+
+.but {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 370px;
+}
+
+.but1 {
+    width: 144px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+
+}
+
+.but2 {
+    width: 81px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.but3 {
+    width: 99px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.but4 {
+    width: 107px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.but5 {
+    width: 112px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.but6 {
+    width: 99px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.but7 {
+    width: 111px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.but8 {
+    width: 115px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.but9 {
+    width: 93px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.ibut {
+    width: 92px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(230, 230, 230);
+
+    margin-left: 130px;
+}
+
+.ram {
+    width: 1180px;
+    height: 1400px;
+    margin-left: 360px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 36px;
+
+}
+
+.ovqat {
+    position: relative;
+}
+
+.asd{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 180px;
+    left: 300px;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+
+.ovqat img {
+    width: 357px;
+    height: 204px;
+    border-radius: 10px;
+}
+
+.ovqat {
+    background-color: rgb(224, 245, 238);
+    border-radius: 10px;
+}
+
+.ovqat h2 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.ovqat h4 {
+    margin-left: 10px;
+    color: rgb(78, 77, 77);
+}
+
+.ovqat button {
+    width: 58px;
+    height: 28px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(255, 249, 249);
+    border: 1px solid rgb(255, 249, 249);
+    ;
+}
+
+.matn3 h2 {
+    margin-top: 30px;
+    margin-left: 360px;
+}
+
+.pol {
+    width: 1144px;
+    height: 305px;
+    margin-left: 360px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 36px;
+}
+
+.ovqat1 {
+    width: 177px;
+    height: 305px;
+    background-color: rgb(230, 225, 225);
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 10px;
+
+}
+
+.ovqat1 img {
+    width: 164.7px;
+    height: 164.7px;
+    margin-top: 4.5px;
+    margin-left: 4.5px;
+    border-radius: 10px;
+}
+
+.ovqat1 p {
+    margin-top: 6px;
+    margin-left: 10px;
+}
+
+.ovqat1 button {
+    width: 154px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid white;
+}
+
+.m1 {
+    width: 156px;
+    height: 20px;
+}
+
+.ram1 {
+    width: 1180px;
+    height: 1020px;
+    margin-left: 360px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 36px;
+}
+
+.ovqat3 img {
+    width: 357px;
+    height: 204px;
+    border-radius: 10px;
+}
+
+.ovqat3 {
+    background-color: rgb(238, 238, 238);
+    border-radius: 10px;
+    position: relative;
+}
+.azz{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 180px;
+    left: 300px;
+    font-size: 25px;
+    text-align: center;
+
+}
+.ovqat3 h2 {
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+.ovqat3 h4 {
+    margin-left: 10px;
+    color: rgb(78, 78, 78);
+}
+
+.ovqat3 button {
+    width: 58px;
+    height: 28px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(255, 249, 249);
+    border: 1px solid rgb(255, 249, 249);
+}
+
+.o button {
+    width: 1144px;
+    height: 48px;
+    background-color: rgb(185, 183, 183);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 380px;
+    border: 1px solid rgb(255, 249, 249);
+}
+
+.tg {
+    width: 1900px;
+    height: 200px;
+}
+
+.tagi {
+    margin-top: 50px;
+    margin-left: 380px;
+    width: 1000px;
+    height: 28px;
+    display: flex;
+    gap: 20px;
+}
+
+.tagi a {
+    text-decoration: none;
+    color: rgb(78, 77, 77);
+}
+
+.tagi2 {
+    margin-top: 50px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 28px;
+    display: flex;
+    gap: 20px;
+}
+
+
+
+.yoni img {
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.yoni {
+    gap: 10px;
+    display: flex;
+    margin-left: 540px;
+
+
+}
